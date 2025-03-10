@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @teo05-prog
 - 👀 I’m interested in music, gaming, art.
 - 🌱 I’m currently learning Software Technology Engineering.
-- 📫 How to reach me discord, mail.
+- 📫 How to reach me: email, LinkedIn, Discord.
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I love swimming and drawing.
 
