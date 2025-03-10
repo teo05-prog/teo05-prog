@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Software Technology Engineering.
 - 📫 How to reach me discord, mail.
 - 😄 Pronouns: she/her.
-- ⚡ Fun fact: I have a fat cat.
+- ⚡ Fun fact: I love swimming and drawing.
 
 <!---
 teo05-prog/teo05-prog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
