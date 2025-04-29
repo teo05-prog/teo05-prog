@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Teodora Stoicescu.
-- 👀 I’m interested in music, gaming, art.
+- 👀 I’m interested in music, programming, gaming and art.
 - 🌱 I’m currently learning Software Technology Engineering.
 - 📫 How to reach me: email, LinkedIn, Discord.
 - 😄 Pronouns: she/her.
