@@ -1,11 +1,11 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! 
 <h2> I'm Teo! </h2>
 
-- 🎓 Studying **Software Technology Engineering** at VIA University College in Horsens, Denmark.  
-- 👀 Interested in **music, programming, gaming, and art**.  
-- 📫 How to reach me: **email**, **LinkedIn**.  
-- 😄 Pronouns: **she/her**.  
-- ⚡ Fun fact: I love **swimming and drawing**.  
+- 💜 Studying **Software Technology Engineering** at VIA University College in Horsens, Denmark.  
+- 💜 Interested in **music, programming, gaming, and art**.  
+- 💜 How to reach me: **email**, **LinkedIn**.  
+- 💜 Pronouns: **she/her**.  
+- 💜 Fun fact: I love **swimming and drawing**.  
 
 ---
 
