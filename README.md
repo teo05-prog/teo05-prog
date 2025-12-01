@@ -62,7 +62,7 @@
 ## 📈 My Stats
 <p>
 <a href="https://github.com/teo05-prog">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=teo05-prog&show_icons=true&theme=material-palenight" />
+  <img height="180em" src="https://readme-stats.clckblog.space/api?username=teo05-prog&show_icons=true&theme=material-palenight" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=teo05-prog&theme=material-palenight&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
