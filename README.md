@@ -4,8 +4,6 @@
 - 💜 Studying **Software Technology Engineering** at VIA University College in Horsens, Denmark.  
 - 💜 Interested in **music, programming, gaming, and art**.  
 - 💜 How to reach me: **email**, **LinkedIn**.  
-- 💜 Pronouns: **she/her**.  
-- 💜 Fun fact: I love **swimming and drawing**.  
 
 ---
 
