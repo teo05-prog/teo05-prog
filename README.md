@@ -2,7 +2,7 @@
 <h2> I'm Teo! </h2>
 
 - 💜 Studying **Software Technology Engineering** at VIA University College in Horsens, Denmark.  
-- 💜 Interested in **music, programming, gaming, and art**.  
+- 💜 Interested in **music, programming, gaming, and drawing**.  
 - 💜 How to reach me: **email**, **LinkedIn**.  
 
 ---
